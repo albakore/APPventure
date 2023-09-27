@@ -1,0 +1,11 @@
+[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://bh0dd4tindxb"]
+
+[ext_resource type="Texture2D" uid="uid://0dskkfhsepb" path="res://CharSprites/playerSprites_ [version 1.0]/fPlayer_ [human].png" id="1_lx3nh"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_g5lyn"]
+texture = ExtResource("1_lx3nh")
+texture_region_size = Vector2i(32, 32)
+
+[resource]
+tile_size = Vector2i(32, 32)
+sources/0 = SubResource("TileSetAtlasSource_g5lyn")

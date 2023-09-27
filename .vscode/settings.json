@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"*.js": "javascriptreact",
+		"plyconfig.json": "jsonc"
+	},
+	"godot_tools.editor_path": "c:\\Users\\albak\\OneDrive\\Documentos\\Godot_v4.1.1-stable_win64.exe\\Godot_v4.1.1-stable_win64_console.exe",
+	"godot_tools.reconnect_attempts": 3,
+	"godot_tools.reconnect_cooldown": 1000
+}
